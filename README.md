@@ -37,5 +37,5 @@ La intención es seguir ampliando sus funcionalidades y compatibilidad con difer
 
 ## Créditos
 
-Desarrollado por **Matías Álvarez (Kodari)**.
+Desarrollado por **Matías Alvarez (Devkka)**.
 
